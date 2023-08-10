@@ -1,0 +1,26 @@
+body {
+    background-color: #8bcae7;
+}
+
+.navbar {
+    display: inline-block;
+    padding: 10px;
+    margin-bottom: 20px; 
+    padding: 14px 20px;
+    text-decoration: white;
+}
+.container {
+    overflow:hidden;
+    
+}
+
+.image {
+    float: left;
+    margin-right: 10px;
+}
+
+.paragraph {
+    display: inline-block;
+    width: calc(50% - 10px);
+    vertical-align: top;
+}
